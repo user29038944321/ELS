@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Riri's Shih Tzu Page</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f0f0f0;
+            color: #333;
+        }
+        header {
+            background-color: #a6c8e8;
+            padding: 20px;
+            text-align: center;
+        }
+        h1 {
+            color: #fff;
+        }
+        .container {
+            max-width: 800px;
+            margin: 0 auto;
+            padding: 20px;
+            background-color: #fff;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+        }
+        h2 {
+            color: #333;
+        }
+        p {
+            line-height: 1.6;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Riri's Shih Tzu Page</h1>
+    </header>
+    <div class="container">
+        <h2>About Shih Tzus</h2>
+        <p>
+            Shih Tzus are a wonderful and charming dog breed known for their friendly and affectionate nature. They are small in size, with a distinctive long, flowing coat that requires regular grooming. Shih Tzus are great companions and make lovely pets for families and individuals alike.
+        </p>
+        <h2>Why Shih Tzus?</h2>
+        <p>
+            I have always been fascinated by Shih Tzus due to their adorable appearance and sweet temperament. Their loyalty and playful nature make them a perfect addition to any home. On this page, I want to share my love for Shih Tzus and provide information about their care, training, and more.
+        </p>
+        <h2>Contact Me</h2>
+        <p>
+            If you have any questions or would like to share your own Shih Tzu stories, feel free to get in touch with me. You can reach me at [Your Email Address].
+        </p>
+    </div>
+</body>
+</html>
